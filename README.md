@@ -1,6 +1,4 @@
 **Transformada Haar**  
-**Ana Carolina Ferreira de Figueiredo**  
-**121044191**
 
 1. **Motivação** 
 
